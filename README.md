@@ -4,5 +4,9 @@ its just my github profile
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Hi!+I'm+a+Developer;I+build+cool+stuff;I+love+coffee!" alt="Typing SVG" />
 </div>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gururaghavendra123&theme=radical" alt="Trophies" />
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gururaghavendra123&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gururaghavendra123&layout=compact&theme=radical" alt="Top Languages" />
+
 </div>
