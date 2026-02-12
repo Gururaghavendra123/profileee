@@ -3,12 +3,13 @@ its just my github profile
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Hi!+I'm+a+Developer;I+build+cool+stuff;I+love+coffee!" alt="Typing SVG" />
 </div>
+## 📈 My Developer Pulse
 <div align="center">
-
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gururaghavendra123&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gururaghavendra123&layout=compact&theme=radical" alt="Top Languages" />
-
+  <br/>
+  <img src="https://img.shields.io/badge/Java_DSA-In_Progress-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/F1_Predictor-Complete-red?style=for-the-badge&logo=formula1" />
+  <img src="https://img.shields.io/badge/CCO-Asymmetric_Tech-blueviolet?style=for-the-badge" />
 </div>
 
 
@@ -48,11 +49,3 @@ I’m a Computer Science student specializing in **Cyber Security**, but my true
 
 ---
 
-## 📈 My Developer Pulse
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gururaghavendra123&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://img.shields.io/badge/Java_DSA-In_Progress-orange?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/F1_Predictor-Complete-red?style=for-the-badge&logo=formula1" />
-  <img src="https://img.shields.io/badge/CCO-Asymmetric_Tech-blueviolet?style=for-the-badge" />
-</div>
