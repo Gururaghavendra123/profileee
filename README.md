@@ -1,10 +1,16 @@
-# ⚡ Guru | CCO @ Asymmetric Tech Club
+# Guru 
 
-**CS Student (Cybersec) | AI & SDE Builder | Aspiring Product Manager**
+**CS Student (Cybersec) | CCO @ Asymmetric Tech Club | AI & SDE Builder | Aspiring Product Manager / Business analyst**
 
 Living on a **70/30 split of Absurdism and Nietzschean resolve**. I specialize in **Agentic AI** and **High-Performance SDE**, currently navigating a Cybersecurity degree while building systems that actually work.
 
 ---
+### 📈 The Numbers
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gururaghavendra123&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gururaghavendra123&layout=compact&theme=radical&hide_border=true" width="45%" />
+  
+  <br/>
 
 ### 🚀 High-Impact Builds
 | Project | The Punch Line |
@@ -37,13 +43,6 @@ I'm always down for:
 * 🗣️ **Ranting** (About the current state of the tech industry over coffee).
 
 ---
-
-### 📈 The Numbers
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gururaghavendra123&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gururaghavendra123&layout=compact&theme=radical&hide_border=true" width="45%" />
-  
-  <br/>
   
   <img src="https://img.shields.io/badge/CCO-Asymmetric_Tech-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/F1_Predictor-Complete-red?style=flat-square&logo=formula1" />
